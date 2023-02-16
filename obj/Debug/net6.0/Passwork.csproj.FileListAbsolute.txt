@@ -1,0 +1,15 @@
+C:\Users\mitol\Desktop\Passwork\obj\Debug\net6.0\Passwork.csproj.AssemblyReference.cache
+C:\Users\mitol\Desktop\Passwork\obj\Debug\net6.0\Passwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitol\Desktop\Passwork\obj\Debug\net6.0\Passwork.AssemblyInfoInputs.cache
+C:\Users\mitol\Desktop\Passwork\obj\Debug\net6.0\Passwork.AssemblyInfo.cs
+C:\Users\mitol\Desktop\Passwork\obj\Debug\net6.0\Passwork.csproj.CoreCompileInputs.cache
+C:\Users\mitol\Desktop\Passwork\bin\Debug\net6.0\Passwork.exe
+C:\Users\mitol\Desktop\Passwork\bin\Debug\net6.0\Passwork.deps.json
+C:\Users\mitol\Desktop\Passwork\bin\Debug\net6.0\Passwork.runtimeconfig.json
+C:\Users\mitol\Desktop\Passwork\bin\Debug\net6.0\Passwork.dll
+C:\Users\mitol\Desktop\Passwork\bin\Debug\net6.0\Passwork.pdb
+C:\Users\mitol\Desktop\Passwork\obj\Debug\net6.0\Passwork.dll
+C:\Users\mitol\Desktop\Passwork\obj\Debug\net6.0\refint\Passwork.dll
+C:\Users\mitol\Desktop\Passwork\obj\Debug\net6.0\Passwork.pdb
+C:\Users\mitol\Desktop\Passwork\obj\Debug\net6.0\Passwork.genruntimeconfig.cache
+C:\Users\mitol\Desktop\Passwork\obj\Debug\net6.0\ref\Passwork.dll
